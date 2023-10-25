@@ -132,4 +132,10 @@ public class EstudianteDAO {
         return false;
     }
 
+    public boolean updateStudent(int idNumberId){
+        
+
+        return false;
+    }
+
 }
